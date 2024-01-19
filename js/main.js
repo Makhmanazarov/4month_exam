@@ -83,7 +83,7 @@ const renderProducts = async () => {
                 <img class="korzinka_icon" src="/img/korzinka.png" alt="" />
             </a>
             <a class="detail_btn" href="http://127.0.0.1:5500/detail.html?id=${item.id}" >
-                <img class="detail_icon" src="/img/detail.png" alt="" />
+                <img class="detail_icon" src="img/detail.png" alt="" />
             </a>
         </div>
     </div>
