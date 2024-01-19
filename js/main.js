@@ -80,7 +80,7 @@ const renderProducts = async () => {
         </div> 
         <div class="card_mini_sup_new">
             <a class="korzinka_btn" href="http://127.0.0.1:5500/korzinka.html?id=${item.id}" >
-                <img class="korzinka_icon" src="/img/korzinka.png" alt="" />
+                <img class="korzinka_icon" src="img/korzinka.png" alt="" />
             </a>
             <a class="detail_btn" href="http://127.0.0.1:5500/detail.html?id=${item.id}" >
                 <img class="detail_icon" src="img/detail.png" alt="" />
